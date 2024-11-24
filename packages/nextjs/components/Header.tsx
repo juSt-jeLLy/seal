@@ -27,7 +27,7 @@ export const menuLinks: HeaderMenuLink[] = [
 
   {
     label: "Hire Freelancer",
-    href: "/debug",
+    href: "/hirefreelancer",
     icon: <BugAntIcon className="h-4 w-4" />,
   },
 ];
