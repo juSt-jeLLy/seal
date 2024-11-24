@@ -9,9 +9,10 @@ export const metadata = getMetadata({
 const Debug: NextPage = () => {
   return (
     <>
+      {" "}
       <div className="text-center mt-8 bg-secondary p-10">
-        <h1 className="text-4xl my-0">Hire Freelancer</h1>
-        <p className="text-neutral">You can hire a trusted Freelancer here.</p>
+        <h1 className="text-4xl my-0">All the transection will be shown here</h1>
+        <p className="text-neutral">all invoices will be shown here if you are alloted the project it will be here</p>
       </div>
     </>
   );
